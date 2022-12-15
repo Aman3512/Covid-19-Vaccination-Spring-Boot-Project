@@ -46,7 +46,7 @@
 
 ## Installation & Run
 
-* Before running the API server, you should update the database config inside the [application.properties](https://github.com/nvFARHAN/cowin.gov.in/blob/master/src/main/resources/application.properties) file. 
+* Before running the API server, you should update the database config inside the [application.properties](https://github.com/Aman3512/Covid-19-Vaccination-Spring-Boot-Project/blob/main/Covid_vaccination_service/src/main/resources/application.properties) file. 
 * Update the port number, username and password as per your local database config.
 
 ```
@@ -59,14 +59,11 @@
 
 ```
 
-## AWS Deployed link
-
-
 ## API Root Endpoint
 
-`https://localhost:8080/`
+`https://localhost:8888/`
 
-`http://localhost:8080/swagger-ui/`
+`http://localhost:8888/swagger-ui/`
 
 
 ## API Module Endpoints
@@ -107,7 +104,7 @@
 
 ### Sample API Response for Admin Login
 
-`POST   localhost:8080/login/adminlogin`
+`POST   localhost:8888/login/adminlogin`
 
 * Request Body
 
@@ -124,10 +121,6 @@
    CurrentAdminSession(id=11, adminId=10, uuid=ZaVLaK, localDateTime=2022-08-17T11:13:42.772910500)
    
 ```
-
-## Video Explainer of flow control
- <a href="https://drive.google.com/file/d/1ReDNdgIxdSNcn7WsV2ysIHeXEnkgZErw/view?usp=sharing">**Video Drive Link** </a>
- 
  
 ### E-R Diagram Of Covid-19 Application
 ---
