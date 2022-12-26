@@ -36,8 +36,8 @@
 
 ## Contributors
 
-* [@Alok Singh](https://github.com/Alok4690)
 * [@Aman Rawat](https://github.com/Aman3512)
+* [@Alok Singh](https://github.com/Alok4690)
 * [@Kundan Wakudkar](https://github.com/Kundan-10)
 * [@Yash Raj](https://github.com/1301yashraj)
 * [@Jitendra Choudhary](https://github.com/jitu7989)
