@@ -1,8 +1,7 @@
 
 # REST API for an Covid-19 Application
 
-* We have developed this REST API for an Covid-19 Application. This API performs all the fundamental CRUD operations of any Covid-19 Application platform with user validation at every step.
-* This project is developed by team of 5 Back-end Developers during project week in Masai School. 
+* I have developed this REST API for a Covid-19 Application. This API performs all the fundamental CRUD operations of any COVID-19 application platform with user validation at every step.
 
 ## Tech Stack
 
@@ -22,7 +21,7 @@
 
 ## Features
 
-* User and Admin authentication & validation with session uuid having.
+* User and Admin authentication & validation with session uuid
 * Admin Features:
     * Administrator Role of the entire application
     * Only registered admins with valid session token can add/update/delete driver or customer from main database
